@@ -11,7 +11,7 @@ public class AboutMe {
 		
         System.out.println("👋 Hi, I’m André Alencar(@Alendrew)");
 		
-        System.out.println("👀 I’m interested in Mobile application development and Desktop development");
+        System.out.println("👀 I’m interested in Mobile application development");
 
         System.out.println("📘 I study Technologist in System Analysis and Development at Fatec");
         
@@ -39,7 +39,7 @@ public class AboutMe {
 
 👋 Hi, I’m André Alencar(@Alendrew)
 
-👀 I’m interested in Mobile application development and Desktop development
+👀 I’m interested in Mobile application development
 
 📫 How to reach me -> https://www.linkedin.com/in/dev-alencar/
 
