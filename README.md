@@ -27,7 +27,7 @@ public class AboutMe {
 		
         String frontEnd = "HTML, CSS, JavaScript";
         
-        String backEnd = "Java, Data Structures in C, MySQL, UML";
+        String backEnd = "Java, Data Structures in C, MySQL, UML, Springboot";
         
         return new Dev(frontEnd,backEnd);
         
@@ -49,7 +49,7 @@ public class AboutMe {
 
 🙂 Front-end: HTML, CSS, JavaScript
 
-🤯 Back-end: Java, Data Structures in C, MySQL, UML
+🤯 Back-end: Java, Data Structures in C, MySQL, UML, Springboot
 
 <!---
 Alendrew/Alendrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
