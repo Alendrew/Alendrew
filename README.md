@@ -11,7 +11,7 @@ public class AboutMe {
 		
         System.out.println("👋 Hi, I’m André Alencar(@Alendrew)");
 		
-        System.out.println("👀 I’m interested in Mobile application development");
+        System.out.println("👀 I’m interested in Java back-end development");
 
         System.out.println("📘 I study Technologist in System Analysis and Development at Fatec");
         
@@ -25,10 +25,10 @@ public class AboutMe {
         
 	public static Dev skills(){
 		
-        String frontEnd = "HTML, CSS, JavaScript";
-        
-        String backEnd = "Java, Data Structures in C, MySQL, UML, Springboot";
-        
+	String backEnd = "Java, PHP, MySQL, UML, Springboot";
+	
+        String frontEnd = "HTML, CSS, JavaScript, Bootstrap";
+	
         return new Dev(frontEnd,backEnd);
         
 	}   
@@ -39,7 +39,7 @@ public class AboutMe {
 
 👋 Hi, I’m André Alencar(@Alendrew)
 
-👀 I’m interested in Mobile application development
+👀 I’m interested in Java back-end development
 
 📫 How to reach me -> https://www.linkedin.com/in/dev-alencar/
 
@@ -47,9 +47,10 @@ public class AboutMe {
 
 ## 🛠 Skills
 
+🤯 Back-end: Java, MySQL, UML, Springboot 
+
 🙂 Front-end: HTML, CSS, JavaScript
 
-🤯 Back-end: Java, Data Structures in C, MySQL, UML, Springboot
 
 <!---
 Alendrew/Alendrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
