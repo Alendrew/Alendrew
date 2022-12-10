@@ -24,10 +24,10 @@ public class AboutMe {
 	}
         
 	public static Dev skills(){
-		
-	String backEnd = "Java, PHP, MySQL, UML, Springboot";
 	
         String frontEnd = "HTML, CSS, JavaScript, Bootstrap";
+	
+	String backEnd = "Java, PHP, MySQL, UML, Springboot";
 	
         return new Dev(frontEnd,backEnd);
         
@@ -47,9 +47,9 @@ public class AboutMe {
 
 ## 🛠 Skills
 
-🤯 Back-end: Java, MySQL, UML, Springboot 
-
 🙂 Front-end: HTML, CSS, JavaScript
+
+🤯 Back-end: Java, MySQL, UML, Springboot 
 
 
 <!---
