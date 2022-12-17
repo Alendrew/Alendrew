@@ -10,7 +10,7 @@
 
 ## 🛠 Skills
 
-🙂 Front-end: HTML, CSS, JavaScript
+🙂 Front-end: HTML, CSS, JavaScript, Bootstrap
 
 🤯 Back-end: Java, MySQL, UML, Springboot 
 
