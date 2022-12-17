@@ -1,6 +1,6 @@
 ## 👨‍💻 AboutMe in a nutshell 👨‍💻
 
-<div align="left">
+<div align="left" diplay=display-flex>
   <a href="https://github.com/Alendrew">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alendrew&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alendrew&layout=compact&langs_count=7&theme=github_dark"/>
